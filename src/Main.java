@@ -205,7 +205,7 @@ public class Main {
 
                         if(PRINT_CONSOLE_TABOU){
                             System.out.println("----------------------------");
-                            System.out.println("MA SOLUTION TABOU (itération" + i + ")!\n");
+                            System.out.println("MA SOLUTION TABOU (itération " + i + ")!\n");
                             
                             System.out.println("FITNESS : " + solutionQ5.getFitness());
                             System.out.println("Camions : " + solutionQ5.getCamions().size());
